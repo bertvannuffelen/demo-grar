@@ -1,0 +1,52 @@
+[
+  {
+    "name": "gebouwenregister",
+    "type": "ap",
+    "eap": "OSLO-Gebouwenregister-AP.eap",
+    "diagram": "OSLO-Gebouw_applicatieprofiel_gebouwregister",
+    "contributors": "Gebouw",
+    "template": "gebouwenregister-ap.j2",
+    "title": "Gebouwenregister",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Gebouw"
+  },
+  {
+    "name": "gebouw",
+    "type": "voc",
+    "eap": "OSLO-Vocabularium.eap",
+    "diagram": "OSLO-Gebouw",
+    "contributors": "Gebouw",
+    "template": "gebouw-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "gebouw"
+  },
+  {
+    "name": "adres",
+    "type": "voc",
+    "eap": "OSLO-Vocabularium.eap",
+    "diagram": "OSLO-Adres",
+    "contributors": "Adres",
+    "template": "adres-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Adres"
+  },
+  {
+    "name": "adresregister",
+    "type": "ap",
+    "eap": "OSLO-Adresregister-AP.eap",
+    "diagram": "OSLO-Adresregister",
+    "contributors": "Adres",
+    "template": "adresregister-ap.j2",
+    "title": "Adresregister",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Adres"
+  }
+]
