@@ -61,6 +61,8 @@
     }
   ],
   internalMappings: [
+  ],
+  internalMappings2: [
     {
       tag: "label-nl",
       property: "http://www.w3.org/2000/01/rdf-schema#label",
@@ -137,6 +139,8 @@
     }
   ],
   externalMappings: [
+  ],
+  externalMappings2: [
     {
       tag: "label-nl",
       property: "http://www.w3.org/2000/01/rdf-schema#label",
