@@ -1,3 +1,5 @@
+{
+  prefixes: {
     cpsv: "http://purl.org/vocab/cpsv#",
     dcterms: "http://purl.org/dc/terms/",
     eli: "http://data.europa.eu/eli/ontology#",
@@ -133,7 +135,6 @@
       tag: "ap-codelist",
       property: "http://www.w3.org/2000/01/rdf-schema#seeAlso"
     }
-  ],
   ],
   externalMappings: [
     {
