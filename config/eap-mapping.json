@@ -46,7 +46,7 @@
     "diagram": "OSLO-Adresregister",
     "contributors": "Adres",
     "template": "adresregister-ap.j2",
-    "config" : "config/config-all.json",
+    "config" : "config/config-ap2.json",
     "title": "Adresregister",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
