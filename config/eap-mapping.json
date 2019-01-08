@@ -33,7 +33,7 @@
     "diagram": "OSLO-Adres",
     "contributors": "Adres",
     "template": "adres-voc.j2",
-    "config" : "config/config-all.json",
+    "config" : "config/config-voc.json",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
     "contributors-file": "stakeholders.csv",

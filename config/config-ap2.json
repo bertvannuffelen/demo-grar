@@ -37,7 +37,7 @@
       tag: "usage",
       property: "http://purl.org/vocab/vann/usageNote",
       lang: "nl",
-      fallbackTags: ["ap-usageNote-nl"]
+      fallbackTags: ["ap-usageNote-nl", "usageNote-nl"]
     },
     {
       tag: "ap-label-nl",
@@ -65,6 +65,24 @@
     }
   ],
   externalMappings: [
+    {
+      tag: "label",
+      property: "http://www.w3.org/2000/01/rdf-schema#label",
+      lang: "nl",
+      fallbackTags: ["ap-label-nl", "label-nl"]
+    },
+    {
+      tag: "definition",
+      property: "http://www.w3.org/2000/01/rdf-schema#comment",
+      lang: "nl",
+      fallbackTags: ["ap-definition-nl","definition-nl"]
+    },
+    {
+      tag: "usage",
+      property: "http://purl.org/vocab/vann/usageNote",
+      lang: "nl",
+      fallbackTags: ["ap-usageNote-nl", "usageNote-nl"]
+    },
     {
       tag: "ap-label-nl",
       property: "http://www.w3.org/2000/01/rdf-schema#label",
