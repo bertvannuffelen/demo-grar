@@ -4,14 +4,15 @@
     "type": "ap",
     "eap": "OSLO-Gebouwenregister-AP.eap",
     "diagram": "OSLO-Gebouw_applicatieprofiel_gebouwregister",
-    "contributors": "Gebouw",
     "template": "gebouwenregister-ap.j2",
     "title": "Gebouwenregister",
-    "config" : "config/config-all.json",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
+    "contributors": "Gebouw",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "Gebouw"
+    "contributors-column": "Gebouw",
+    "config" : "config/config-ap2.json",
+    "site": "site-skeleton/gebouwenregister"
   },
   {
     "name": "gebouw",
@@ -24,7 +25,8 @@
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "gebouw"
+    "contributors-column": "gebouw",
+    "site": "site-skeleton/gebouw"
   },
   {
     "name": "adres",
@@ -37,7 +39,8 @@
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "Adres"
+    "contributors-column": "Adres",
+    "site": "site-skeleton/adres"
   },
   {
     "name": "adresregister",
@@ -51,7 +54,8 @@
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "Adres"
+    "contributors-column": "Adres",
+    "site": "site-skeleton/adresregister"
   },
   {
     "name": "adresregister2",
