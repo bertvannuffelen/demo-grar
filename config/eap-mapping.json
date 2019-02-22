@@ -16,20 +16,20 @@
   {
     "name": "gebouw",
     "type": "voc",
-    "eap": "OSLO-Vocabularium.eap",
+    "eap": "OSLO-Gebouw-VOC.eap",
     "diagram": "OSLO-Gebouw",
     "template": "gebouw-voc.j2",
     "config" : "config/config-voc.json",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "gebouw",
+    "contributors-column": "Gebouw",
     "site": "site-skeleton/gebouw"
   },
   {
     "name": "adres",
     "type": "voc",
-    "eap": "OSLO-Vocabularium.eap",
+    "eap": "OSLO-Adres-VOC.eap",
     "diagram": "OSLO-Adres",
     "template": "adres-voc.j2",
     "config" : "config/config-voc.json",
