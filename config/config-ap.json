@@ -22,6 +22,14 @@
   },
   ontologyMappings: [
     {
+      tag: "baseURI",
+      property: "http://purl.org/vocab/vann/preferredNamespaceUri"
+    },
+    {
+      tag: "baseURIabbrev",
+      property: "http://purl.org/vocab/vann/preferredNamespacePrefix"
+    },
+    {
       tag: "issued",
       property: "http://purl.org/dc/terms/issued",
       mandatory: true,
