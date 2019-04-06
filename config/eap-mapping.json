@@ -51,7 +51,9 @@
     "publication-date": "12-12-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Adres",
-    "site": "site-skeleton/adresregister"
+    "site": "site-skeleton/adresregister",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "adresregister2",
