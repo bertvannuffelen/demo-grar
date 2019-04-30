@@ -7,11 +7,13 @@
     "template": "gebouwenregister-ap.j2",
     "title": "Gebouwenregister",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-date": "30-09-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Gebouw",
     "config" : "config/config-ap2.json",
-    "site": "site-skeleton/gebouwenregister"
+    "site": "site-skeleton/gebouwenregister",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "gebouw",
@@ -19,12 +21,15 @@
     "eap": "OSLO-Gebouw-VOC.eap",
     "diagram": "OSLO-Gebouw",
     "template": "gebouw-voc.j2",
+	"title": "Gebouw",
     "config" : "config/config-voc.json",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-date": "niet-bepaald",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Gebouw",
-    "site": "site-skeleton/gebouw"
+    "site": "site-skeleton/gebouw",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "adres",
@@ -32,12 +37,15 @@
     "eap": "OSLO-Adres-VOC.eap",
     "diagram": "OSLO-Adres",
     "template": "adres-voc.j2",
+	"title": "Adres",
     "config" : "config/config-voc.json",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-date": "03-07-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Adres",
-    "site": "site-skeleton/adres"
+    "site": "site-skeleton/adres",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "adresregister",
@@ -48,7 +56,7 @@
     "config" : "config/config-ap2.json",
     "title": "Adresregister",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-date": "niet-bepaald",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Adres",
     "site": "site-skeleton/adresregister",
@@ -64,8 +72,10 @@
     "config" : "config/config-all.json",
     "title": "Adresregister",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-date": "niet-bepaald",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "Adres"
+    "contributors-column": "Adres",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   }
 ]
