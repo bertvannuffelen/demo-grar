@@ -63,8 +63,9 @@
     "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
     "standaardregisterurl" : "https://data.vlaanderen.be/standaarden",
     "dependencies" : [
-       { "package" : "generiek",
-	 "packageurl" : "https://otl-test.data.vlaanderen.be/doc/applicatieprofiel/generiek-basis/"
+       { "package" : "OSLO-Generiek",
+         "packagelabel" : "Appplicatieprofiel Generiek-basis",
+	 "packageurl" : "https://otl-test.data.vlaanderen.be/doc/applicatieprofiel/generiek-basis/ontwerpdocument/07-02-2018/"
        }
       ]
   },
