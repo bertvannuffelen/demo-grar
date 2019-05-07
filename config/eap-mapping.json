@@ -53,7 +53,12 @@
     "contributors-column": "Adres",
     "site": "site-skeleton/adresregister",
     "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden",
+    "dependencies" : [
+       { "package" : "generiek",
+	 "packageurl" : "https://otl-test.data.vlaanderen.be/doc/applicatieprofiel/generiek-basis/"
+       }
+      ]
   },
   {
     "name": "adresregister2",
