@@ -1,0 +1,16 @@
+{
+  "name": "gebouwenregister",
+  "type": "ap",
+  "eap": "OSLO-Gebouwenregister-AP.eap",
+  "diagram": "OSLO-Gebouw_applicatieprofiel_gebouwregister",
+  "template": "gebouwenregister-ap.j2",
+  "title": "Gebouwenregister",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+  "publication-date": "30-09-2018",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Gebouw",
+  "config": "config/config-ap2.json",
+  "site": "site-skeleton/gebouwenregister",
+  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+}
